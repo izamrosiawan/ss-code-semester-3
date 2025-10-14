@@ -1,0 +1,245 @@
+_id,Lokasi,Kecamatan,Kelurahan,Rayon,Luas genangan,Tinggi genangan,Lama genangan,Skor Luas Genangan,Skor Tinggi Genangan,Skor Lama Genangan
+1,Jl. Pakis Agosari (Yamaha),Dukuh Pakis,Dukuh Pakis,Rayon Wiyung,10.8,10,40,100,25,25
+2,Jl. Mayjend Sungkono - Darmo Park I,Dukuh Pakis,Dukuh Pakis,Rayon Wiyung,0.816236,25,58,75,50,25
+3,Jl. Mayjend Sungkono (Pom Bensin),Dukuh Pakis,Dukuh Pakis,Rayon Wiyung,0.509047,15,16,75,50,0
+4,Kp. Kebraon,Karangpilang,Warugunung,Rayon Wiyung,0.785111,10,40,75,25,25
+5,Jl. Lakar Santri RW.001,Lakarsantri,Bangkingan,Rayon Wiyung,0.749717,30,16,75,50,0
+6,Lontar Lidah Kulon,Lakarsantri,Lidah Kulon,Rayon Wiyung,1.175965,4,16,75,0,0
+7,Jl. Babatan Indah,Wiyung,Babatan,Rayon Wiyung,8.1,10,16,100,25,0
+8,Perumahan Lembah Harapan,Lakarsantri,Lidah Wetan,Rayon Wiyung,0.182205,10,16,50,25,0
+9,Jl. Simo Hilir,Sukomanunggal,Simomulyo,Rayon Tandes,0.205258,4,16,50,0,0
+10,Jl. Kupang Baru,Dukuh Pakis,Dukuh Kupang,Rayon Tandes,0.258649,25,16,50,50,0
+11,Kp. Babatan dan sekitarnya,Wiyung,Babatan,Rayon Wiyung,0.22065,25,16,50,50,0
+12,Jl. Wiyung (Gg. DPR),Wiyung,Wiyung,Rayon Wiyung,0.1855,25,16,50,50,0
+13,Jl. Hayam Wuruk,Wonokromo,Sawunggaling,Rayon Wiyung,0.394008,15,40,50,50,25
+14,Jl. Adityawarman,Wonokromo,Wonokromo,Rayon Wiyung,1.120918,10,40,75,25,25
+15,Jl. Jajar Tunggal,Wiyung,Jajar Tunggal,Rayon Wiyung,0.546206,50,80,75,75,50
+16,Jl. H. Abdul Wahab Siamin,Dukuh Pakis,Dukuh Pakis,Rayon Wiyung,0.69076,30,50,75,50,25
+17,Jl. Gajah Mada,Wonokromo,Sawunggaling,Rayon Wiyung,0.224743,25,40,50,50,25
+18,Jl. Simo Rejo,Sukomanunggal,Simomulyo,Rayon Tandes,10,10,31,100,25,25
+19,Jl. Simo Langit,Sukomanunggal,Simomulyo,Rayon Tandes,0.166687,10,16,50,25,0
+20,Jl. Dukuh Menanggal,Gayungan,Dukuh Menanggal,Rayon Jambangan,0.308184,10,40,50,25,25
+21,Jl. Bangkingan,Lakarsantri,Bangkingan,Rayon Wiyung,0.488274,15,16,50,50,0
+22,Jl. Lakarsantri (Jembatan Perbatasan),Lakarsantri,Bangkingan,Rayon Wiyung,9.6,25,16,100,50,0
+23,Jl. Dukuh Pakis,Dukuh Pakis,Dukuh Pakis,Rayon Wiyung,0.36091,25,31,50,50,25
+24,Jl. Waru Gunung (Kedawung),Karangpilang,Warugunung,Rayon Wiyung,0.212653,25,16,50,50,0
+25,Jl. Waru Gunung (Rusun),Karangpilang,Warugunung,Rayon Wiyung,0.413372,25,16,50,50,0
+26,Kp. Lidah Kulon RW.005,Lakarsantri,Lidah Kulon,Rayon Wiyung,0.13233,30,16,50,50,0
+27,Jl. Raya Simo Jawar,Sukomanunggal,Simomulyo,Rayon Tandes,0.762466,4,16,75,0,0
+28,Jl. Suko Manunggal s/d Simo Jawar,Sukomanunggal,Simomulyo,Rayon Tandes,1.018027,4,16,75,0,0
+29,Jl. Pattimura,Sukomanunggal,Sono Kwijenan,Rayon Tandes,0.156225,9,16,50,25,0
+30,Jl. Satelit Selatan,Sukomanunggal,Tanjungsari,Rayon Tandes,0.237901,10,16,50,25,0
+31,Jl. Satelit Indah,Sukomanunggal,Tanjungsari,Rayon Tandes,0.315189,10,16,50,25,0
+32,Jl. Darmo Indah Timur (Darmo Harapan),Sukomanunggal,Tanjungsari,Rayon Tandes,2.909585,25,16,100,50,0
+33,Kp. Kandangan,Benowo,Kandangan,Rayon Tandes,0.612675,15,16,75,50,0
+34,Jl. Samudera,Pabean Cantikan,Bongkaran,Rayon Gubeng,0.232645,4,5,50,0,0
+35,Kp. Balongsari,Tandes,Balongsari,Rayon Tandes,0.927409,9,16,75,25,0
+36,Kp. Manukan Kulon,Tandes,Manukan Kulon,Rayon Tandes,0.76946,9,16,75,25,0
+37,Jl. Margomulyo (Bawah Jalan Tol)),Tandes,Tandes,Rayon Tandes,1.959712,4,16,100,0,0
+38,Jl. Darmo Permai Timur,Dukuh Pakis,Pradah Kali Kendal,Rayon Tandes,0.761763,15,16,75,50,0
+39,Gayungsari,Gayungan,Dukuh Menanggal,Rayon Jambangan,0.226172,9,40,50,25,25
+40,Jl. Tambak Mayor,Asemrowo,Asemrowo,Rayon Tandes,1.622856,10,31,100,25,25
+41,Kp. Dukuh Langkir Babat Jerawat,Benowo,Babat Jerawat,Rayon Tandes,0.971342,25,31,75,50,25
+42,Wisma Tengger,Benowo,Kandangan,Rayon Tandes,0.860051,10,16,75,25,0
+43,Kp. Babat Jerawat,Benowo,Babat Jerawat,Rayon Tandes,1.539918,9,16,100,25,0
+44,Kp. Benowo,Benowo,Benowo,Rayon Tandes,1.17728,15,16,75,50,0
+45,Jl. Simpang Darmo Permai,Dukuh Pakis,Pradah Kali Kendal,Rayon Tandes,0.770196,15,16,75,50,0
+46,Jl. Raya Sawo,Sambikerep,Bringin,Rayon Tandes,0.472986,15,16,50,50,0
+47,Jl. Raya Bringin Indah,Sambikerep,Bringin,Rayon Tandes,0.494582,25,31,50,50,25
+48,Kp.Candi Lempung,Sambikerep,Lontar,Rayon Tandes,0.555119,25,31,75,50,25
+49,Kp. Simo Gunung,Sawahan,Banyuurip,Rayon Tandes,0.629668,25,16,75,50,0
+50,Jl. Simo Rukun VIII,Sukomanunggal,Simomulyo,Rayon Tandes,0.152239,4,16,50,0,0
+51,Jambangan,Jambangan,Jambangan,Rayon Jambangan,10,18,40,100,50,25
+52,Perumahan Medokan Asri,Rungkut,Medokan Ayu,Rayon Jambangan,0.839133,4,16,75,0,0
+53,Kp. Dukuh Kupang IX s/d SD Jarak,Sawahan,Pakis,Rayon Tandes,3.518957,10,16,100,25,0
+54,Jl. Dukuh Kupang XX,Sawahan,Pakis,Rayon Tandes,0.216271,10,16,50,25,0
+55,Kp. Pakis Tirtosari,Sawahan,Pakis,Rayon Tandes,0.241423,10,16,50,25,0
+56,Jl. Raya Tengger,Sawahan,Sawahan,Rayon Tandes,0.699545,10,16,75,25,0
+57,Jl. Jurang Kuping s/d Jl. Rejosari,Pakal,Benowo,Rayon Tandes,0.329893,15,16,50,50,0
+58,Jl. Pakis Wetan,Sawahan,Pakis,Rayon Tandes,0.14892,15,16,50,50,0
+59,Jl. Simo Gunung Gg.1,Sawahan,Banyuurip,Rayon Tandes,0.142854,10,16,50,25,0
+60,Jl. Dukuh Kupang XXV,Sawahan,Pakis,Rayon Tandes,0.226555,10,16,50,25,0
+61,Jl. Simo Rukun,Sukomanunggal,Simomulyo,Rayon Tandes,0.151445,9,16,50,25,0
+"62,""Kp. Simo Mulyo, Jl. Simo Mulyo"",Sukomanunggal,Simomulyo,Rayon Tandes,0.899891,9,16,75,25,0"
+63,Kp. Manukan Krajan,Tandes,Manukan Kulon,Rayon Tandes,0.963129,9,31,75,25,25
+64,Kp. Manukan Lor,Tandes,Manukan Kulon,Rayon Tandes,0.915953,9,16,75,25,0
+65,Kp. Ngagel Tirto,Gubeng,Pucang Sewu,Rayon Jambangan,0.425176,10,31,50,25,25
+66,Karah Agung,Jambangan,Karah,Rayon Jambangan,0.393857,4,16,50,0,0
+67,Jl. Balongsari (Balong Sari Tama),Tandes,Balongsari,Rayon Tandes,1.103001,15,31,75,50,25
+68,Exit Tol Romokalisari,Benowo,Romo Kalisari,Rayon Tandes,0.276473,10,16,50,25,0
+69,Dupak Rukun,Krembangan,Dupak,Rayon Tandes,13.4,15,16,100,50,0
+70,Kp. Sumber Rejo,Pakal,Sumber Rejo,Rayon Tandes,16.9,9,90,100,25,50
+71,Jl. Sememi,Benowo,Sememi,Rayon Tandes,0.45215,15,16,50,50,0
+72,Romokali Sari (Bawah Jembatan Tol),Benowo,Romokalisari,Rayon Tandes,0.256661,10,13,50,25,0
+73,Klampis Semalang,Sukolilo,Klampis Ngasem,Rayon Jambangan,0.471683,9,16,50,25,0
+74,Jl. Pakal,Benowo,Pakal,Rayon Tandes,11,15,16,100,50,0
+75,Jl. Kendung,Benowo,Sememi,Rayon Tandes,0.544111,9,16,75,25,0
+76,Jl. Ngemplak (Made Utara),Sambikerep,Made,Rayon Tandes,0.512739,15,16,75,50,0
+77,Jl. Darmo Indah Barat II,Sukomanunggal,Tanjungsari,Rayon Tandes,0.26614,15,16,50,50,0
+78,Jl. Jawar,Sukomanunggal,Simomulyo,Rayon Tandes,1.959238,25,16,100,50,0
+"79,""Kp. Simo Mulyo, Jl. Gumuk Bogo"",Sukomanunggal,Simomulyo,Rayon Tandes,17.9,4,16,100,0,0"
+"80,""Kp. Simo Mulyo, Jl. Kali Kundang"",Sukomanunggal,Simomulyo,Rayon Tandes,17.9,10,16,100,25,0"
+81,Jl. Simo Katrungan V & VI,Sawahan,Banyuurip,Rayon Tandes,0.141395,4,16,50,0,0
+82,Jl. Raya Lontar,Sambikerep,Lontar,Rayon Tandes,0.212273,25,40,50,50,25
+83,Kp. Manyar Rejo,Sukolilo,Menur Pumougan,Rayon Jambangan,0.36674,9,40,50,25,25
+84,Perumahan Kutisari Indah,Tenggilis Mejoyo,Kutisari,Rayon Jambangan,0.917751,4,58,75,0,25
+85,Medokan Semampir,Rungkut,Medokan Ayu,Rayon Jambangan,9.3,4,16,100,0,0
+86,Perumahan Wisma Menanggal,Gayungan,Dukuh Menanggal,Rayon Jambangan,2.32739,4,16,100,0,0
+87,Gayungsari Barat V,Gayungan,Dukuh Menanggal,Rayon Jambangan,0.510791,9,40,75,25,25
+88,Gayungsari Barat X,Gayungan,Dukuh Menanggal,Rayon Jambangan,0.565383,18,40,75,50,25
+89,Gayungsari Barat,Gayungan,Dukuh Menanggal,Rayon Jambangan,0.375385,9,26,50,25,0
+"90,""Jl. Gayungan I,II dan sekitarnya"",Gayungan,Dukuh Menanggal,Rayon Jambangan,0.257308,4,40,50,0,25"
+91,Ketintang Baru,Gayungan,Dukuh Menanggal,Rayon Jambangan,0.580002,4,16,75,0,0
+92,Jl. Kedungasem,Rungkut,Kedung Baruk,Rayon Jambangan,0.835831,4,16,75,0,0
+93,Jl. Raya Medokan Ayu,Rungkut,Medokan Ayu,Rayon Jambangan,0.155418,4,16,50,0,0
+94,Jl. Penjaringansari Timur,Rungkut,Penjaringansari,Rayon Jambangan,0.677365,9,31,75,25,25
+95,Rungkut Kidul,Rungkut,Rungkut Kidul,Rayon Jambangan,1.143154,4,16,75,0,0
+96,Jl. Keputih Tegal Timur,Sukolilo,Keputih,Rayon Jambangan,1.972737,10,31,100,25,25
+97,Jl. Keputih Tegal,Sukolilo,Keputih,Rayon Jambangan,10.2,10,16,100,25,0
+98,Jl. Siwalankerto Timur,Siwalan Kerto,Siwalan Kerto,Rayon Jambangan,0.74223,9,16,75,25,0
+99,Kp. Merisi Selatan,Wonocolo,Bendul Merisi,Rayon Jambangan,1.040533,10,58,75,25,25
+100,Perumahan Bendul Merisi,Wonocolo,Bendul Merisi,Rayon Jambangan,9.2,4,40,100,0,25
+101,Jl. Panjang Jiwo IX,Tenggilis Mejoyo,Panjang Jiwo,Rayon Jambangan,12,4,16,100,0,0
+102,Jl. Menur Pumpungan,Sukolilo,Menur Pumpungan,Rayon Jambangan,0.471186,4,16,50,0,0
+103,Kp. Menur Pumpungan,Sukolilo,Menur Pumpungan,Rayon Jambangan,0.335837,10,16,50,25,0
+104,Jl. Baratajaya,Gubeng,Baratajaya,Rayon Jambangan,1.737368,4,16,100,0,0
+105,Perumahan Penjaringansari,Rungkut,Penjaringansari,Rayon Jambangan,0.160132,4,16,50,0,0
+106,Perumahan Rungkut Harapan,Rungkut,Rungkut Kidul,Rayon Jambangan,12.1,4,40,100,0,25
+107,Ngagel Madya (Gereja Santa Maria),Gubeng,Pucang Sewu,Rayon Jambangan,0.61425,10,31,75,25,25
+108,Jl. Keputih,Sukolilo,Keputih,Rayon Jambangan,0.801458,9,31,75,25,25
+109,Jl. Jetis Kulon,Wonokromo,Wonokromo,Rayon Jambangan,0.509372,10,58,75,25,25
+110,Jl. Ketintang,Gayungan,Ketintang,Rayon Jambangan,0.49914,10,31,50,25,25
+111,Jl. Ketintang Madya dan sekitarnya,Ketintang,Ketintang,Rayon Jambangan,0.352063,9,16,50,25,0
+112,Jl. Bongkaran,Pabean Cantikan,Bongkaran,Rayon Gubeng,0.198765,4,5,50,0,0
+113,Jl. Songoyudan,Pabean Cantikan,Nyamplungan,Rayon Gubeng,0.282563,4,5,50,0,0
+114,Jl. Siwalankerto dan sekitarnya,Siwalan Kerto,Siwalan Kerto,Rayon Jambangan,0.469372,9,40,50,25,25
+115,Jl. Nambangan,Bulak,Kedung Cowek,Rayon Gubeng,0.884641,15,40,75,50,25
+116,Jl. Raya Gubeng / Jl. Sumatera,Gubeng,Gubeng,Rayon Gubeng,0.378756,4,5,50,0,0
+117,Jl. Jawa,Gubeng,Gubeng,Rayon Gubeng,0.266988,4,5,50,0,0
+118,Jl. Pucang Anom Timur,Gubeng,Kertajaya,Rayon Gubeng,10,10,13,100,25,0
+119,Jl. Pucang Jajar,Gubeng,Kertajaya,Rayon Gubeng,15.3,14,16,100,50,0
+120,Jl. Karang Menjangan,Gubeng,Mojo,Rayon Gubeng,0.634641,17,16,75,50,0
+121,Jl. Kyai Tambak Deres,Kenjeran,Bulak Banteng,Rayon Gubeng,0.277082,10,16,50,25,0
+122,Jl. Bulak Kenjeran,Kenjeran,Bulak Banteng,Rayon Gubeng,0.14998,4,5,50,0,0
+123,Jl. Kanwa,Wonokromo,Darmo,Rayon Genteng,0.147748,9,15,50,25,0
+124,Jl. Bulak Banteng Kidul,Kenjeran,Bulak Banteng,Rayon Gubeng,0.30738,4,5,50,0,0
+125,Jl. Randu,Kenjeran,Sidotopo Wetan,Rayon Gubeng,0.792657,30,90,75,50,50
+126,Jl. Kedinding Lor,Kenjeran,Tanah Kali Kedinding,Rayon Gubeng,0.312514,9,40,50,25,25
+127,Kp. Pogot,Kenjeran,Tanah Kali Kedinding,Rayon Gubeng,0.695793,4,16,75,0,0
+128,Jl. Kedung Mangu Timur,Kenjeran,Tanah Kali Kedinding,Rayon Gubeng,0.538027,9,16,75,25,0
+129,Jl. Kalijudan (Perbatasan Ploso),Mulyorejo,Kalijudan,Rayon Gubeng,0.37517,6,58,50,25,25
+130,Perumahan Mulyosari,Mulyorejo,Kalisari,Rayon Gubeng,0.858418,15,58,75,50,25
+131,Jl. Raya ITS / Bundaran ITS,Mulyorejo,Manyar Sabrangan,Rayon Gubeng,0.309029,8,16,50,25,0
+132,Kp. Manyar Sabrangan (Mleto),Mulyorejo,Manyar Sabrangan,Rayon Gubeng,0.389129,9,16,50,25,0
+133,Jl. Slompretan,Pabean Cantikan,Bongkaran,Rayon Gubeng,0.205651,4,5,50,0,0
+134,Jl. Karang Tembok (Sisi Barat),Semampir,Pegirian,Rayon Gubeng,0.338543,9,16,50,25,0
+135,Jl. Sidorame,Semampir,Sidotopo,Rayon Gubeng,0.683436,10,16,75,25,0
+136,Jl. Jati Srono/Kp. Jati Purwo,Semampir,Ujung,Rayon Gubeng,0.216922,3,13,50,0,0
+137,Jl. KH Mas Mansyur,Semampir,Ujung,Rayon Gubeng,10.5,4,16,100,0,0
+138,Kp. Bulak Banteng,Kenjeran,Bulak Banteng,Rayon Gubeng,0.348132,4,16,50,0,0
+139,Jl. Hang Tuah,Semampir,Ujung,Rayon Gubeng,10.5,10,90,100,25,50
+140,Jl. Iskandar Muda,Semampir,Ujung,Rayon Gubeng,0.49055,4,5,50,0,0
+141,Kp Wonosari Lor,Semampir,Ujung,Rayon Gubeng,0.776542,10,16,75,25,0
+142,Jl. Tenggumung Baru,Semampir,Wonokusumo,Rayon Gubeng,0.22679,4,13,50,0,0
+143,Kp Wonokusumo Lor,Semampir,Wonokusumo,Rayon Gubeng,0.434397,4,16,50,0,0
+144,Jl. Bulaksari,Semampir,Wonokusumo,Rayon Gubeng,0.37232,10,16,50,25,0
+145,Kp. Klampis Jaya,Sukolilo,Klampis Ngasem,Rayon Gubeng,1.351034,9,16,75,25,0
+146,Jl. Prof Dr.Moestopo / Kedung Sroko,Tambaksari,Pacar Keling,Rayon Gubeng,0.408484,4,16,50,0,0
+147,Jl. Residen Sudirman,Tambaksari,Pacar Keling,Rayon Gubeng,0.704542,4,31,75,0,25
+148,Kp. Ploso Baru,Tambaksari,Pacar Keling,Rayon Gubeng,0.73972,4,75,75,0,50
+149,Kp. Bogen,Tambaksari,Ploso,Rayon Gubeng,0.170663,9,16,50,25,0
+150,Jl. Salak dan Sekitarnya,Tambaksari,Ploso,Rayon Gubeng,0.284249,20,58,50,50,25
+151,Kp. Karang Empat,Tambaksari,Ploso,Rayon Gubeng,0.581005,8,75,75,25,50
+152,Kp. Karang Asem,Tambaksari,Ploso,Rayon Gubeng,0.478234,4,31,50,0,25
+153,Jl. Jagiran,Tambaksari,Tambaksari,Rayon Gubeng,0.383234,10,40,50,25,25
+154,Jl. Flores dan Sekitarnya,Wonokoromo,Ngagel,Rayon Gubeng,0.896425,9,16,75,25,0
+155,Gelanggang Remaja,Tambaksari,Ploso,Rayon Gubeng,0.284313,9,16,50,25,0
+156,Jl. Pucang Anom,Gubeng,Kertajaya,Rayon Gubeng,0.674965,4,13,75,0,0
+157,Jl. Mojo Kidul,Gubeng,Mojo,Rayon Gubeng,0.593999,9,16,75,25,0
+158,Jl. Dharmawangsa,Gubeng,Airlangga,Rayon Gubeng,1.626244,10,16,100,25,0
+159,Jl. Bulak Jaya,Semampir,Wonokusumo,Rayon Gubeng,0.340674,9,16,50,25,0
+160,Jl. Sidodadi,Simokerto,Sidodadi,Rayon Gubeng,0.323497,4,13,50,0,0
+161,Jl. Kapasari,Genteng,Kapasari,Rayon Gubeng,0.893754,4,5,75,0,0
+162,Jl. Jambi,Wonokromo,Darmo,Rayon Genteng,0.171961,4,15,50,0,0
+163,Jl. Kalimati Kulon,Pabean Cantikan,Nyamplungan,Rayon Gubeng,0.270738,4,5,50,0,0
+164,Jl. Gebang Putih,Sukolilo,Gebang Putih,Rayon Gubeng,0.325197,9,13,50,25,0
+165,Perumahan Sutorejo Selatan,Mulyorejo,Dukuh Sutorejo,Rayon Gubeng,0.401893,9,16,50,25,0
+166,Jl. Tenggumung Wetan,Semampir,Wonokusumo,Rayon Gubeng,0.415624,4,5,50,0,0
+167,Jl. Tambaksari,Tambaksari,Ploso,Rayon Gubeng,0.650954,25,16,75,50,0
+168,Jl. Bulak Cumpat (kampung),Bulak,Bulak,Rayon Gubeng,0.13453,9,5,50,25,0
+169,Jl. Bulak Tinjang (kampung),Semampir,Wonokusumo,Rayon Gubeng,0.131661,4,5,50,0,0
+170,Jl. Menur,Mulyorejo,Manyar Sabrangan,Rayon Gubeng,0.218262,4,5,50,0,0
+171,Jl. Kedung Tomas,Sukolilo,Menur Pumpungan,Rayon Gubeng,0.185574,9,16,50,25,0
+172,Jl. Ambengan (Sisi Barat SPBU),Genteng,Ketabang,Rayon Gubeng,0.440674,4,13,50,0,0
+173,Jl. Biliton,Gubeng,Gubeng,Rayon Gubeng,0.558512,4,13,75,0,0
+174,Jl. Dharmahusada,Gubeng,Mojo,Rayon Gubeng,1.218797,4,13,75,0,0
+175,Jl. Mangkunegoro,Wonokromo,Darmo,Rayon Genteng,0.235893,18,39,50,50,25
+176,Jl. Pucang Adi,Gubeng,Kertajaya,Rayon Gubeng,0.495194,14,13,50,50,0
+177,Jl. Gubeng Masjid,Tambaksari,Pacar Keling,Rayon Gubeng,0.179322,4,5,50,0,0
+178,Jl. Ploso/Gresikan,Tambaksari,Ploso,Rayon Gubeng,0.25874,10,16,50,25,0
+179,Jl. Wonosari Lor Baru,Semampir,Wonokusumo,Rayon Gubeng,0.406587,9,16,50,25,0
+180,Komplek TNI AU/AL(Jl. Wiratno),Bulak,Komplek Kenjeran,Rayon Gubeng,0.260588,10,13,50,25,0
+181,Jl. Kertajaya Indah,Mulyorejo,Manyar Sabrangan,Rayon Gubeng,10.6,10,16,100,25,0
+182,Jl. Kapasan,Simokerto,Kapasan,Rayon Gubeng,0.665774,4,13,75,0,0
+183,Jl. Waspada,Pabean Cantikan,Bongkaran,Rayon Gubeng,0.512739,4,5,75,0,0
+184,Jl. Ambengan,Genteng,Ketabang,Rayon Gubeng,0.375899,3,16,50,0,0
+185,Jl. Raden Saleh dan sekitarnya,Bubutan,Bubutan,Rayon Genteng,0.7873,25,29,75,50,0
+"186,""Perempatan Jalan Dupak,Jalan Demak"",Bubutan,Gundih,Rayon Genteng,1.063949,4,48,75,0,25"
+187,Jl. Jakarta,Semampir,Ampel,Rayon Genteng,0.509306,10,30,75,25,0
+"188,""Jalan Raya Dupak,PGS s/d Pom Bensin"",Bubutan,Gundih,Rayon Genteng,1.062551,9,48,75,25,25"
+189,Jl. Semarang,Bubutan,Tembok Dukuh,Rayon Genteng,0.483196,25,48,50,50,25
+190,Jalan Pasar Krembangan,Krembangan,Krembangan Selatan,Rayon Genteng,10.2,9,15,100,25,0
+191,Jl. Tanjung Sadari,Krembangan,Perak Barat,Rayon Genteng,0.285382,25,48,50,50,25
+192,Jl. Rajawali,Krembangan,Perak Barat,Rayon Genteng,0.477132,18,30,50,50,0
+193,Jalan Dr. Soetomo,Tegalsari,dr soetomo,Rayon Genteng,0.853354,25,39,75,50,25
+194,Jl. Imam Bonjol,Tegalsari,dr soetomo,Rayon Genteng,0.537663,25,39,75,50,25
+195,Jl. Kartini,Tegalsari,dr soetomo,Rayon Genteng,0.819624,18,39,75,50,25
+196,Jl. Teuku Umar,Tegalsari,dr soetomo,Rayon Genteng,0.440461,4,39,50,0,25
+197,Jl. Prapanca,Wonokromo,Darmo,Rayon Genteng,0.493794,10,39,50,25,25
+198,Jl. Ciliwung,Wonokromo,Darmo,Rayon Genteng,0.252993,18,15,50,50,0
+199,Jl. Demak,Bubutan,Gundih,Rayon Genteng,1.828212,25,48,100,50,25
+200,Jl. Ikan Duyung,Krembangan,Perak Barat,Rayon Genteng,0.383856,4,30,50,0,0
+201,Jalan WR Supratman,Tegalsari,dr soetomo,Rayon Genteng,0.793079,25,39,75,50,25
+202,Jl. Mojopahit,Tegalsari,Keputran,Rayon Genteng,0.377837,9,15,50,25,0
+203,Jl. Tidar,Sawahan,Petemon,Rayon Genteng,1.138739,4,30,75,0,0
+204,Jl. Kranggan,Sawahan,Sawahan,Rayon Genteng,0.636107,9,15,75,25,0
+205,Jl. Patemon Barat,Sawahan,Petemon,Rayon Genteng,0.539814,9,48,75,25,25
+206,Jl. Simo Kwagean,Sawahan,Petemon,Rayon Genteng,0.332774,9,30,50,25,0
+207,Jl. Bromo,Sawahan,Sawahan,Rayon Genteng,0.292684,9,30,50,25,0
+208,Jl. Kedungdoro,Tegalsari,Kedungdoro,Rayon Genteng,0.740625,9,30,75,25,0
+209,Jl. Kebalen Timur,Pabean Cantikan,Krembangan Utara,Rayon Genteng,0.481382,10,30,50,25,0
+210,Jl. Koblen dan sekitarnya,Bubutan,Bubutan,Rayon Genteng,0.363654,10,39,50,25,25
+211,Jl. Pawiyatan,Bubutan,Bubutan,Rayon Genteng,0.837182,25,39,75,50,25
+212,Jl. Johor dan sekitarnya,Bubutan,Perak Timur,Rayon Genteng,1.1452,10,30,75,25,0
+213,Jl. Embong Wungu,Genteng,Embong Kaliasin,Rayon Genteng,0.411011,18,15,50,50,0
+214,Taman Apsari dan sekitarnya,Genteng,Embong Kaliasin,Rayon Genteng,0.463462,18,15,50,50,0
+215,Jl. Pacuan Kuda,Sawahan,Petemon,Rayon Genteng,0.350495,4,30,50,0,0
+216,Jl. Kemayoran Baru,Krembangan,Krembangan Selatan,Rayon Genteng,1.03155,25,30,75,50,0
+217,Jl. Kalimas Baru,Pabean Cantikan,Perak Timur,Rayon Genteng,0.376611,10,30,50,25,0
+218,JL. Brawijaya,Wonokromo,Sawunggaling,Rayon Wiyung,0.747965,9,3,75,25,0
+219,Kp. Pucang Jajar,Gubeng,Kertajaya,Rayon Gubeng,1.119931,9,3,75,25,0
+220,Kp. Manyar Sabrangan,Mulyorejo,Manyar Sabrangan,Rayon Gubeng,0.329705,9,3,50,25,0
+221,Kp. Tenggumung Wetan,Semampir,Wonokusumo,Rayon Gubeng,0.42161,9,3,50,25,0
+222,Jl. Tembaan,Bubutan,Bubutan,Rayon Genteng,1.415229,9,3,75,25,0
+223,Jl. Untung Suropati,Tegalsari,dr. soetomo,Rayon Genteng,1.353338,9,3,75,25,0
+224,Pasar Krembangan dan sekitarnya,KREMBANGAN,KREMBANGAN SELATAN,Rayon Genteng,0.768931,9,3,75,25,0
+225,Simokatrungan,Sawahan,Banyuurip,Rayon Tandes,1.144456,9,3,75,25,0
+226,Jl. Patemon Gg IV,SAWAHAN,PETEMON,Rayon Genteng,1.18916,9,3,75,25,0
+227,Jl. Patemon Gg III,SAWAHAN,PETEMON,Rayon Genteng,1.740933,9,3,100,25,0
+228,Griya babatan Mukti dan Sekitarnya,WIYUNG,BABATAN,Rayon Wiyung,8.1,9,3,100,25,0
+229,Ketintang Baru (Timur Rel),Gayungan,Dukuh Menanggal,Rayon Jambangan,2.071641,9,3,100,25,0
+230,Ketintang Baru (Barat Jl. A Yani),Gayungan,Dukuh Menanggal,Rayon Jambangan,2.906881,9,3,100,25,0
+231,Jl. Lidah Wetan 1 dan sekitarnya,LAKARSANTRI,LIDAH WETAN,Rayon Wiyung,8.6,9,3,100,25,0
+232,JL. Raya Lidah Wetan,LAKARSANTRI,LIDAH WETAN,Rayon Wiyung,0.517799,9,3,75,25,0
+233,Jl. Kesatrian,WONOKROMO,SAWUNGGALING,Rayon Wiyung,0.739912,9,3,75,25,0
+234,Jl. Cisadane,WONOKROMO,DARMO,Rayon Genteng,0.579843,9,3,75,25,0
+235,Jl. Embong Gayam,GENTENG,EMBONG KALIASIN,Rayon Genteng,0.325076,9,3,50,25,0
+236,Jl. Keputih I,Sukolilo,Keputih,Rayon Jambangan,0.324674,9,3,50,25,0
+237,Kp. Kejawan Putih Tambak,MULYOREJO,KEJAWAN PUTIH TAMBAK,Rayon Gubeng,1.189222,9,3,75,25,0
+238,Jl. Arif Rahman Hakim,SUKOLILO,KLAMPIS NGASEM,Rayon Gubeng,1.130102,9,3,75,25,0
+239,Jl. Dharmahusada Indah,GUBENG,MOJO,Rayon Gubeng,0.200037,9,3,50,25,0
+240,Jl. Kanwa,WONOKROMO,DARMO,Rayon Genteng,0.334177,9,3,50,25,0
+241,Per. Rungkut Harapan,Rungkut,Rungkut Kidul,Rayon Jambangan,0.851371,9,3,75,25,0
+242,TANJUNGSARI I,SUKOMANUNGGAL,TANJUNGSARI,Rayon Tandes,19.98,9,15,100,25,0
+243,Jl. Karangrejo,Wonokromo,Wonokromo,Rayon Jambangan,15.83,9,20,100,25,0
+244,Kp. Tambakdono,Benowo,Tambakdono,Rayon Tandes,16.41,4,15,100,0,0
