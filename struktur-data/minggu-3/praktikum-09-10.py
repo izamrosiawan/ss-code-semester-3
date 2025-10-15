@@ -2,7 +2,6 @@ class Kelas:
     def __init__(self, NIM, nama):
         self.NIM = NIM
         self.nama = nama
-    
     def tampilkan(self):
         print("NIM:", self.NIM)
         print("Nama:", self.nama)
