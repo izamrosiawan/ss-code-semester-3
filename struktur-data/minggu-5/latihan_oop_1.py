@@ -33,3 +33,7 @@ mobil2.info()    # Output: Merk: Honda, Warna: Hitam
 # 1. Buat objek mobil lain dengan merk dan warna berbeda!
 # 2. Tampilkan info dan panggil method jalan() dari mobil yang kamu buat!
 # 3. Upload jawabanmu di Space untuk direview!
+
+mobil3 = Mobil("Suzuki", "Biru")
+mobil3.info()    # Output: Merk: Suzuki, Warna: Biru
+mobil3.jalan()   # Output: Mobil Suzuki sedang berjalan
